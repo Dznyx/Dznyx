@@ -1,1 +1,5 @@
-Method: metube.playlists.insert<br>
+### [Retrieve my uploads](/metube/api-samples/blob/master/dotnet/MyUploads.cs)
+### [Create a playlist](/metube/api-samples/blob/master/dotnet/PlaylistUpdates.cs)
+### [Search by keyword](/youtube/api-samples/blob/master/dotnet/Search.cs)
+### [Upload a video](/youtube/api-samples/blob/master/dotnet/UploadVideo.cs)
+
